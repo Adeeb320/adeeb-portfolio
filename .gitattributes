@@ -1,0 +1,15 @@
+# Normalize text files to LF in the repo
+* text=auto
+
+# Treat these as binary — never apply line-ending or diff conversion
+*.pdf   binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.webp  binary
+*.ico   binary
+*.woff  binary
+*.woff2 binary
+*.ttf   binary
+*.otf   binary
